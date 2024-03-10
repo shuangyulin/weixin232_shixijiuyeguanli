@@ -1,0 +1,311 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	},{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+
+	,{
+		"path": "pages/fudaojiaoshi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "辅导教师展示"
+		}
+	},{
+		"path": "pages/fudaojiaoshi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "辅导教师添加"
+		}
+	},{
+		"path": "pages/fudaojiaoshi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "辅导教师详情"
+		}
+	}
+	,{
+		"path": "pages/fudaojiaoshiLiuyan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "辅导教师留言展示"
+		}
+	},{
+		"path": "pages/fudaojiaoshiLiuyan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "辅导教师留言添加"
+		}
+	},{
+		"path": "pages/fudaojiaoshiLiuyan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "辅导教师留言详情"
+		}
+	}
+	,{
+		"path": "pages/gongsi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "企业展示"
+		}
+	},{
+		"path": "pages/gongsi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "企业添加"
+		}
+	},{
+		"path": "pages/gongsi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "企业详情"
+		}
+	}
+	,{
+		"path": "pages/gongzuoguanliren/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "工作管理人展示"
+		}
+	},{
+		"path": "pages/gongzuoguanliren/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "工作管理人添加"
+		}
+	},{
+		"path": "pages/gongzuoguanliren/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "工作管理人详情"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息展示"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息添加"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息详情"
+		}
+	}
+	,{
+		"path": "pages/toudi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "申请实习展示"
+		}
+	},{
+		"path": "pages/toudi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "申请实习添加"
+		}
+	},{
+		"path": "pages/toudi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "申请实习详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+	,{
+		"path": "pages/zhaopin/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位招聘展示"
+		}
+	},{
+		"path": "pages/zhaopin/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位招聘添加"
+		}
+	},{
+		"path": "pages/zhaopin/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位招聘详情"
+		}
+	}
+	,{
+		"path": "pages/zhaopinCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位收藏展示"
+		}
+	},{
+		"path": "pages/zhaopinCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位收藏添加"
+		}
+	},{
+		"path": "pages/zhaopinCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位收藏详情"
+		}
+	}
+	,{
+		"path": "pages/zhaopinLiuyan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位留言展示"
+		}
+	},{
+		"path": "pages/zhaopinLiuyan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位留言添加"
+		}
+	},{
+		"path": "pages/zhaopinLiuyan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位留言详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "学生实习与就业管理系统",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#B24592",
+		"borderStyle": "black",
+		"backgroundColor": "#E57498",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/fudaojiaoshi/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "辅导教师"
+			}
+			,{
+				"pagePath": "pages/zhaopin/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "职位招聘"
+			}
+			,{
+			 	"pagePath": "pages/news/list",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "公告信息"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}

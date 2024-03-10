@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#E57498",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "工作管理人展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}

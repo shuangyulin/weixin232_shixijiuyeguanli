@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#E57498",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "职位招聘添加",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}
